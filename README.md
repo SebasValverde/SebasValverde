@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian Valverde Aarias</h1>
+<h1 align="center">Hi 👋, I'm Sebastian Valverde Arias</h1>
 <h3 align="center">A passionate Fullstack developer from Costa Rica</h3>
 
 - 🔭 I’m currently working on **My graduation project**
